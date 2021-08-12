@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9173b05f-2670-4503-9ae7-40d1e1bbfc36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vgASAm48h2qHIHS7hZupW4xL2X" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/project/templates/project" />
+      <recent name="$PROJECT_DIR$/static_in_project" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9173b05f-2670-4503-9ae7-40d1e1bbfc36" name="Default Changelist" comment="" />
+      <created>1626973355992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626973355992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1628242954781">
+      <screen x="0" y="25" width="1680" height="954" />
+    </state>
+    <state x="519" y="331" key="com.intellij.ide.util.TipDialog/-1440.25.1440.875/0.25.1680.954@0.25.1680.954" timestamp="1628242954781" />
+    <state x="519" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1627115087929">
+      <screen x="0" y="25" width="1680" height="944" />
+    </state>
+    <state x="519" y="247" width="670" height="676" key="search.everywhere.popup/-1440.25.1440.875/0.25.1680.944@0.25.1680.944" timestamp="1627115087929" />
+  </component>
+</project>
